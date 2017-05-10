@@ -228,7 +228,7 @@ Unicode true
 ;--------------------------------
 ;Installer Sections
 
-InstType "-"
+InstType "-" ; Dummy installation type used to check prerequisites
 InstType "$(FullInstall)"
 InstType "$(MinimalInstall)"
 
