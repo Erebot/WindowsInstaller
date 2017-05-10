@@ -22,7 +22,7 @@ Unicode true
   !define INSTALLER_DESC      "Installer for Erebot, a modular IRC bot written in PHP"
   !define UNINST_KEY          "Software\Microsoft\Windows\CurrentVersion\Uninstall\Erebot"
   !define INST_FILE           "Erebot-setup.exe"
-  !define URL_HOMEPAGE        "https://www.erebot.net/"
+  !define URL_HOMEPAGE        "https://github.com/Erebot/Erebot/"
   !define URL_SUPPORT         "https://github.com/Erebot/Erebot/issues"
   !define URL_DOC             "http://docs.erebot.net/"
   !define NB_SECTIONS         0
