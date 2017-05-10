@@ -1,5 +1,5 @@
-!insertmacro MUI_LANGUAGE "French"
-
-LangString FullInstall          ${LANG_FRENCH} "Compl�te"
-LangString ErebotDescription    ${LANG_FRENCH} "Un bot IRC modulaire �crit en PHP"
-
+LangString FullInstall          ${LANG_FRENCH} "Complète"
+LangString MinimalInstall       ${LANG_FRENCH} "Minimale"
+LangString ErebotDescription    ${LANG_FRENCH} "Un bot IRC modulaire écrit en PHP"
+LangString PrerequisitesCheck   ${LANG_FRENCH} "Validation des prérequis..."
+LangString PrerequisitesWait    ${LANG_FRENCH} "Veuillez patienter pendant la validation des prérequis..."

@@ -1,5 +1,5 @@
-!insertmacro MUI_LANGUAGE "English"
-
 LangString FullInstall          ${LANG_ENGLISH} "Full"
-LangString ErebotDescription    ${LANG_ENGLISH} "${EREBOT_DESC}"
-
+LangString MinimalInstall       ${LANG_ENGLISH} "Minimal"
+LangString ErebotDescription    ${LANG_ENGLISH} "A modular IRC bot written in PHP"
+LangString PrerequisitesCheck   ${LANG_ENGLISH} "Checking prerequisites..."
+LangString PrerequisitesWait    ${LANG_ENGLISH} "Please wait while the prerequisites are being checked..."
