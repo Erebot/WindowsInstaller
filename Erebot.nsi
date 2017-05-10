@@ -83,12 +83,6 @@ Unicode true
   ;Finish page settings (installer)
   !define MUI_FINISHPAGE_LINK             "${URL_DOC}"
   !define MUI_FINISHPAGE_LINK_LOCATION    "${URL_DOC}"
-
-;  !define MUI_FINISHPAGE_LINK             "Support"
-;  !define MUI_FINISHPAGE_LINK_LOCATION    "${URL_SUPPORT}"
-;  !define MUI_FINISHPAGE_SHOWREADME       "${URL_DOC}"
-;  !define MUI_FINISHPAGE_SHOWREADME_TEXT  "${URL_DOC}"
-;  !define MUI_FINISHPAGE_SHOWREADME_NOTCHECKED
   !define MUI_FINISHPAGE_NOAUTOCLOSE
 
   ;Finish page settings (uninstaller)
